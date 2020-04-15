@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YstRMCer</title>
+  
+  <subtitle>Before,just Before,Minecraft is belivef forever!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ystrmcer.github.io/"/>
+  <updated>2020-04-15T02:36:39.438Z</updated>
+  <id>http://ystrmcer.github.io/</id>
+  
+  <author>
+    <name>YstREdge</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Memory</title>
+    <link href="http://ystrmcer.github.io/2020/Memory/"/>
+    <id>http://ystrmcer.github.io/2020/Memory/</id>
+    <published>2020-04-15T00:54:02.942Z</published>
+    <updated>2020-04-15T02:36:39.438Z</updated>
+    
+    <content type="html"><![CDATA[<p>当，我们都是一个方块人时，我们都将面临一场剧烈的战争<br>这时候，你的伙伴在你身边最好不过了</p><p>挖掉<strong>第一棵树</strong><br>获得<strong>第一个家</strong><br>发现<strong>第一块铁</strong><br>寻找<em>第一颗钻石</em><br>前往<strong>未知的世界</strong><br>打败第一个<strong>凋零Boss</strong><br>寻找<strong>遗迹</strong>，探索<strong><em>世界</em></strong></p><p>打败了<em>末影龙</em>。。。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;gamemode s?</span><br><span class="line">&#x2F;gamemode c?</span><br></pre></td></tr></table></figure><p>还是。。。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;gamemode spectator?</span><br></pre></td></tr></table></figure><p><a href="https://minecraft-zh.gamepedia.com/Minecraft_Wiki" target="_blank" rel="noopener">wiki?</a><br>原来。。。</p><p><code>回忆起，沙漠，沼泽，森林，村庄，海底，珊瑚群......</code></p><p>不。。。</p><p>还有。。。</p><p>那个<del><strong>小木屋？</strong></del></p><p>怎么。。。</p><p><del>“传送门已打开，请离开世界。。。”</del></p><p>这是。。。</p><p>终界？。。。</p><p>难道。。。</p><p><del>结束了?…..</del></p><p>嗨，还记得这些吗？<br>还记得这些吗。。。<br>还记得，那个陪你到最后的。。<br><del>好朋友</del>？<br>那一颗树？<br>那@&amp;*……%@#）&amp;…………%￥（</p><p><strong>终末之诗，可否记得？</strong></p><p><del>“有缘，再见”</del></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;当，我们都是一个方块人时，我们都将面临一场剧烈的战争&lt;br&gt;这时候，你的伙伴在你身边最好不过了&lt;/p&gt;
+&lt;p&gt;挖掉&lt;strong&gt;第一棵树&lt;/strong&gt;&lt;br&gt;获得&lt;strong&gt;第一个家&lt;/strong&gt;&lt;br&gt;发现&lt;strong&gt;第一块铁&lt;/strong&gt;&lt;br&gt;寻
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ystrmcer.github.io/2020/hello-world/"/>
+    <id>http://ystrmcer.github.io/2020/hello-world/</id>
+    <published>2020-04-14T06:26:59.597Z</published>
+    <updated>2020-04-14T06:26:59.597Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
